@@ -1,5 +1,5 @@
 def addition(num1,num2):
-    print()
+    print(num1+num2)
 
 
 
