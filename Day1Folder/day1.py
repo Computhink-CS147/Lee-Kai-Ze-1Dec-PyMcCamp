@@ -1,4 +1,4 @@
-def addition(no):
+def addition(num1,num2):
     print()
 
 
